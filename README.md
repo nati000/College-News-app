@@ -1,4 +1,5 @@
-# ten_news
+# College_News app
+
 
 A new Flutter project.
 
